@@ -447,12 +447,6 @@ int main () {
     cout << "===============================================\n";
     cout << "  SELAMAT DATANG DI KALKULATOR INTEGRAL DASAR\n";
     cout << "===============================================\n";
-    cout << "Dibuat oleh:  Afrizal Adi Nugroho     (2202834)\n";
-    cout << "              Hasna Putri Priswati    (2201115)\n";
-    cout << "              Muhammad Salam Pararta  (2202747)\n";
-    cout << "              Rajih Nibras Maulana    (2202212)\n";
-    cout << "===============================================\n";
-    cout << "-----------------------------------------------\n";
     cout << "Kalkulator integral ini akan menghitung nilai integral\n";
     cout << "tak tentu dari fungsi polinomial biasa dengan pangkat\n";
     cout << "berupa bilangan bulat positif\n";
